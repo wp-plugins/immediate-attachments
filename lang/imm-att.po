@@ -1,0 +1,382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Immediate Attachments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-07 22:27+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: illutic WebDesign <hiranthi@illutic.nl>\n"
+"Language-Team: illutic WebDesign <info@illutic.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: L:\\WordPress\\Eigen plugins\\imm-att\n"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:9
+#: plugins\imm-att/immediate-attachments.php:100
+msgid "Attachments"
+msgstr "Bijlagen"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:29
+msgid "Attachment could not be uploaded: the extension is not allowed."
+msgstr "De bijlage kon niet worden geüpload: de extensie is niet toegestaan."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:38
+msgid "Attachment saved."
+msgstr "Bijlage opgeslagen."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:41
+msgid "Attachment settings could not be saved."
+msgstr "De bijlage instellingen konden niet worden opgeslagen."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:46
+msgid "Attachment could not be uploaded."
+msgstr "De bijlage kon niet worden geüpload."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:56
+#: plugins\imm-att/immediate-attachments.php:155
+msgid "The <strong>uploads</strong> folder doesn't exist and could not be created. Please add the folder manually inside <strong>wp-content</strong>."
+msgstr "De <strong>uploads</strong> map bestaat niet en kon niet worden aangemaakt. Maak deze map handmatig in de <strong>wp-content</strong> map."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:74
+#: plugins\imm-att/immatt_attachments.php:157
+msgid "Title"
+msgstr "Titel"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:80
+#: plugins\imm-att/immatt_attachments.php:158
+msgid "Description"
+msgstr "Beschrijving"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:82
+msgid "Description of the attachment."
+msgstr "Beschrijving van de bijlage."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:86
+#: plugins\imm-att/immatt_attachments.php:160
+msgid "File"
+msgstr "Bestand"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:88
+#, php-format
+msgid "The file must be one of these types: %s"
+msgstr "Het bestand moet een van deze extensies hebben: %s"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:89
+#, php-format
+msgid "Max. filesize allowed: %s MB"
+msgstr "Max. bestandsgrootte toegestaan: %s MB"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:95
+msgid "Upload attachment"
+msgstr "Upload bijlage"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:156
+msgid "ID"
+msgstr "ID"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:159
+msgid "Sent"
+msgstr "Verzonden"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:161
+msgid "Exclude"
+msgstr "Uitsluiten"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:161
+msgid "Excluding the attachment makes it impossible to select for visitors, without deleting the file."
+msgstr "Het uitsluiten van de bijlage maakt het onmogelijk voor bezoekers om deze te selecteren zonder het bestand te verwijderen."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:162
+msgid "Uploaded"
+msgstr "Geüpload"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:187
+msgid " at "
+msgstr " om "
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:196
+msgid "There aren't any attachments available yet."
+msgstr "Er zijn nog geen bijlagen beschikbaar."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:204
+msgid "With selected:"
+msgstr "Met geselecteerd:"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:204
+msgid "- - -"
+msgstr "- - -"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:204
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immatt_attachments.php:205
+msgid "Update attachments"
+msgstr "Bijlagen aanpassen"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:84
+#: plugins\imm-att/immediate-attachments.php:120
+msgid ""
+"easterbunny.com\n"
+"santaclaus.com"
+msgstr ""
+"paashaas.nl\n"
+"sinterklaas.nl"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:85
+#: plugins\imm-att/immediate-attachments.php:121
+msgid "Your requested attachment(s) from %blogname%"
+msgstr "U heeft bijlage(n) opgevraagd bij %blogname%"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:86
+#: plugins\imm-att/immediate-attachments.php:122
+msgid ""
+"Dear Sir/Madam,\n"
+"\n"
+"We are happy to send you the attachment(s) that you have requested: %attachment_title%.\n"
+"\n"
+"Best regards,\n"
+"%blogname%"
+msgstr ""
+"Geachte heer/mevrouw,\n"
+"\n"
+"We zijn verheugd u de bijlage(n) toe te sturen die u heeft aangevraagd: %attachment_title%.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"%blogname%"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:87
+#: plugins\imm-att/immediate-attachments.php:123
+msgid ""
+"<p>Dear Sir/Madam,</p>\n"
+"<p>We are happy to send you the attachment(s) that you have requested: %attachment_title%.</p>\n"
+"<p>Best regards,<br>\n"
+"%blogname%</p>"
+msgstr ""
+"<p>Geachte heer/mevrouw,</p>\n"
+"<p>We zijn verheugd u de bijlage(n) toe te sturen die u heeft aangevraagd: %attachment_title%.</p>\n"
+"<p>Met vriendelijke groet,<br>\n"
+"%blogname%</p>"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:88
+#: plugins\imm-att/immediate-attachments.php:124
+msgid ""
+"Dear administrator,\n"
+"\n"
+"The following attachment(s) %attachment_title% were just requested by (and sent to) %receiver%.\n"
+"\n"
+"This message was automatically sent by the Immediate Attachments plugin at %blogname%"
+msgstr ""
+"Beste administrator,\n"
+"\n"
+"De volgende bijlage(n) %attachment_title% zijn zojuist aangevraagd door (en verzonden naar) %receiver%\n"
+"\n"
+"Dit bericht is automatisch verzonden door de Snelle Bijlagen plugin bij %blogname%"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:98
+#: plugins\imm-att/immediate-attachments.php:131
+#: plugins\imm-att/immediate-attachments.php:250
+msgid "Immediate Attachments"
+msgstr "Snelle Bijlagen"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:98
+msgid "Imm. Att."
+msgstr "Snelle Bijlagen"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:99
+msgid "Options"
+msgstr "Opties"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:147
+msgid "Options saved."
+msgstr "Opties opgeslagen."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:170
+msgid "Admin's emailaddress"
+msgstr "Admin e-mailadres"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:172
+msgid "This emailaddress will receive a notice when an attachment has been sent."
+msgstr "Dit e-mailadres ontvangt een bericht als er een bijlage is verzonden."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:176
+msgid "Allowed extensions"
+msgstr "Toegestane extenties"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:178
+msgid "File types that are allowed to be used as attachments.<br />Put each file type on a new line."
+msgstr "Bestandstypen die toegestaan zijn om als bijlage te gebruiken.<br />Zet elk bestandstype op een eigen regel."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:182
+msgid "Unwanted email domains"
+msgstr "Ongewenste email domeinen"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:184
+msgid "Emailaddresses with one of these domainnames cannot request an attachment. Put every domain on a new line."
+msgstr "E-mailadressen met een van deze domeinnamen kan geen bijlage aanvragen. Zet ieder domein op een nieuwe regel."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:188
+msgid "Email subject"
+msgstr "Email onderwerp"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:190
+msgid "The subject of the email that's being sent."
+msgstr "Het onderwerp van de email die wordt verzonden."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:194
+msgid "Email message"
+msgstr "Email bericht"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:196
+msgid "The message that will be sent."
+msgstr "Het bericht dat wordt verzonden."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:200
+msgid "Email message (html)"
+msgstr "Email bericht (html)"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:202
+msgid "The message that will be sent (html)."
+msgstr "Het bericht dat wordt verzonden (html)."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:206
+msgid "Admin message"
+msgstr "Admin bericht"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:208
+msgid "The message that will be sent to the administrator."
+msgstr "Het bericht dat naar de administrator wordt verzonden."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:215
+msgid "Update Options"
+msgstr "Update Opties"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:250
+msgid "by"
+msgstr "door"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:272
+msgid "Select attachment(s)"
+msgstr "Selecteer bijlage(n)"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:280
+#: plugins\imm-att/immediate-attachments.php:316
+msgid "Emailaddress"
+msgstr "E-mailadres"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:283
+#: plugins\imm-att/immediate-attachments.php:319
+msgid "Submit"
+msgstr "Verzenden"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:313
+msgid "Receive attachment:"
+msgstr "Ontvang bijlage:"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:333
+msgid "The attachment(s) you have requested have succesfully been sent."
+msgstr "De bijlage(n) die u heeft aangevraagd zijn succesvol verzonden."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:337
+msgid "Unfortunately we were unable to send you the requested attachments."
+msgstr "Helaas hebben we de aangevraagde bijlage(n) niet kunnen verzenden."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:341
+msgid "The emailaddress you have provided is invalid. Please fill in a valid emailaddress."
+msgstr "Het e-mailadres dat u heeft opgegeven is ongeldig. Vult u a.u.b. een geldig e-mailadres in."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:345
+msgid "You must select an attachment."
+msgstr "U moet een bijlage selecteren."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/immediate-attachments.php:349
+msgid "An unknown error has occured."
+msgstr "Er is iets fout gegaan (oorzaak onbekend)."
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/tinymce3/window.php:41
+msgid "Insert attachment"
+msgstr "Bijlage invoegen"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/tinymce3/window.php:51
+msgid "Select attachment"
+msgstr "Selecteer bijlage"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/tinymce3/window.php:53
+msgid "All"
+msgstr "Allemaal"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/tinymce3/window.php:71
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: L:\WordPress\Eigen
+#: plugins\imm-att/tinymce3/window.php:75
+msgid "Insert"
+msgstr "Invoegen"
+
