@@ -3,9 +3,9 @@
 Plugin Name: Immediate Attachments
 Plugin URI: http://wordpress.plugins.illutic-webdesign.nl
 Description: Lets your visitors fill in their emailaddress to instantly receive your brochures or other attachments by email.
-Version: 0.2
-Author: illutic WebDesign
-Author URI: http://www.illutic-webdesign.nl
+Version: 0.3
+Author: Onexa
+Author URI: http://www.onexa.nl
 */
 
 if(preg_match('#' . basename(__FILE__) . '#', $_SERVER['PHP_SELF'])) { die('You are not allowed to call this page directly.'); }
@@ -251,7 +251,7 @@ if ( is_admin() )
 		{
 			#add_filter('submitpost_box', upload_dir;
 			// Load tinymce button 
-			include_once ( WP_PLUGIN_DIR . '/tinymce3/tinymce.php' );
+			include_once ( WP_PLUGIN_DIR . '/imm-att/tinymce3/tinymce.php' );
 		}
 	}
 } // end if is_admin

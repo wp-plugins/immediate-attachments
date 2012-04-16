@@ -4,7 +4,7 @@ Donate link:
 Tags: email, attachments
 Requires at least: 3.0
 Tested up to: 3.3.1
-Stable tag: 0.2
+Stable tag: 0.3
 
 == Description ==
 
