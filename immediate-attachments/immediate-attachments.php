@@ -1,9 +1,8 @@
 <?php
 /*
 Plugin Name: Immediate Attachments
-Plugin URI: http://wordpress.plugins.illutic-webdesign.nl
 Description: Lets your visitors fill in their emailaddress to instantly receive your brochures or other attachments by email.
-Version: 0.3
+Version: 0.3.1
 Author: Onexa
 Author URI: http://www.onexa.nl
 */
@@ -227,7 +226,6 @@ if ( !is_dir( get_option('upload_path').'/'.immatt_dir ) )
 
 <p class="submit">
 <input type="submit" name="Submit" class="button-primary" value="<?php _e('Update Options', immatt_dir ) ?>" />
-<?php /*<input type="submit" name="Submit" value="<?php _e('Update Options', immatt_dir ) ?>" />*/ ?>
 </p>
 
 </form>
@@ -251,7 +249,7 @@ if ( is_admin() )
 		{
 			#add_filter('submitpost_box', upload_dir;
 			// Load tinymce button 
-			include_once ( WP_PLUGIN_DIR . '/imm-att/tinymce3/tinymce.php' );
+			include_once ( 'tinymce3/tinymce.php' );
 		}
 	}
 } // end if is_admin
@@ -286,7 +284,7 @@ function filter_immatt( $content )
 
 function immatt_header()
 {
-	echo "\n".'<!-- '.__('Immediate Attachments',immatt_dir).' '.__('by',immatt_dir).' illutic WebDesign - www.illutic-webdesign.nl -->'."\n";
+	echo "\n".'<!-- '.__('Immediate Attachments',immatt_dir).' '.__('by',immatt_dir).' Onexa - www.onexa.nl -->'."\n";
 	wp_register_style( 'immediate-attachments', WP_PLUGIN_URL.'/'.immatt_dir.'/style.css' );
 	wp_enqueue_style( 'immediate-attachments' );
 }

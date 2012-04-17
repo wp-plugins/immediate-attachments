@@ -4,7 +4,7 @@ Donate link:
 Tags: email, attachments
 Requires at least: 3.0
 Tested up to: 3.3.1
-Stable tag: 0.3
+Stable tag: trunk
 
 == Description ==
 
@@ -25,3 +25,7 @@ Put the imm-att folder inside your wp-plugins folder. The pugin has not been tes
 == Screenshots ==
 
 Please visit the [Immediate Attachments plugin page - Dutch](http://hiranthi.nl/wordpress/snelle-bijlagen/) for screenshots & user examples.
+
+
+== Changelog ==
+= 0.3.1 =
